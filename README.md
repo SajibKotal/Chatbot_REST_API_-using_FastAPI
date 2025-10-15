@@ -19,6 +19,8 @@ A fully functional Chatbot REST API built with FastAPI that provides intelligent
 
 # Chatbot workfrow
 chatbot workflow LangGraph.see workflow_visualization how it works internaly
+
+
 ![Alt text](app/workflow_visualization.png)
 # 📋 API Endpoints
     GET /api/products
